@@ -12,15 +12,4 @@ Input is of the form:
 - '.' can go to cell, '#' cannot go to cell, 'E' end of maze, 'B' beginning of maze.
 - Each level is separated by a space.
 
-Example input:
-
-2
-
-B..#
-...#
-....
-
-..##
-##..
-....
-###E
+The UI is extremely barebones as that's not the focus of this project.
